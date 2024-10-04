@@ -39,6 +39,8 @@
 
 📫 Feel free to reach out at dhruvjanakala@gmail.com if you want to chat about code, tech, or just say hi!  (Let's connect! 👋)
 
+[![An image of @dhruvjanakala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvjanakala)](https://holopin.io/@dhruvjanakala)
+
 <!---
 Dhruv-Janakala/Dhruv-Janakala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
